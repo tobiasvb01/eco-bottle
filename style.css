@@ -1,0 +1,31 @@
+body {
+  font-family: "Open Sans";
+  background-color: #f4f7fc;
+}
+
+header {
+  text-align: center;
+  color: #2f72f0;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  color: #2c3e50;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #777;
+}
